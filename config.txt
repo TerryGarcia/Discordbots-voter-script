@@ -1,0 +1,7 @@
+[Settings]
+profile_folder_path = C:\Users\Anonymous\AppData\Local\Google\Chrome\User Data
+bot_id = 340988108222758934
+
+[Developer Settings]
+vote_button_xpath = //*[@id="votingvoted"]
+
